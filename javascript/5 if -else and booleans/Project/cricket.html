@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Cricket Game</title>
+  <style>
+    body {
+      text-align: center;
+      font-family: Arial;
+    }
+  </style>
+</head>
+<body>
+  <h1>Bat Ball Stump Game</h1>
+
+  <!-- 🏏 Bat Button  -->
+  <button onclick="
+    let randomNumber = Math.random() * 3;
+    let computerChoice;
+    if (randomNumber <= 1) {
+      computerChoice = 'Bat';
+    } else if (randomNumber <= 2) {
+      computerChoice = 'Ball';
+    } else {
+      computerChoice = 'Stump';
+    }
+
+    let resultMsg;
+    if (computerChoice === 'Ball') {
+      resultMsg = 'User won';
+    } else if (computerChoice === 'Bat') {
+      resultMsg =` It's a tie`;
+    } else {
+      resultMsg = 'Computer has won';
+    }
+
+    alert('You have chosen Bat. Computer choice is ' + computerChoice + ' and ' + resultMsg);
+  ">Bat</button>
+
+
+  <!-- ⚾ Ball Button-->
+  <button onclick="
+    randomNumber = Math.random() * 3;
+    if (randomNumber <= 1) {
+      computerChoice = 'Bat';
+    } else if (randomNumber <= 2) {
+      computerChoice = 'Ball';
+    } else {
+      computerChoice = 'Stump';
+    }
+
+    if (computerChoice === 'Ball') {
+      resultMsg =` It's a tie`;
+    } else if (computerChoice === 'Bat') {
+      resultMsg = 'Computer has won';
+    } else {
+      resultMsg = 'User won';
+    }
+
+    alert('You have chosen Ball. Computer choice is ' + computerChoice + ' and ' + resultMsg);
+  ">Ball</button>
+
+
+  <!-- 🪓 Stump Button (no let / var) -->
+  <button onclick="
+    randomNumber = Math.random() * 3;
+    if (randomNumber <= 1) {
+      computerChoice = 'Bat';
+    } else if (randomNumber <= 2) {
+      computerChoice = 'Ball';
+    } else {
+      computerChoice = 'Stump';
+    }
+
+    if (computerChoice === 'Stump') {
+      resultMsg =` It's a tie`;
+    } else if (computerChoice === 'Ball') {
+      resultMsg = 'Computer has won';
+    } else {
+      resultMsg = 'User won';
+    }
+
+    alert('You have chosen Stump. Computer choice is ' + computerChoice + ' and ' + resultMsg);
+  ">Stump</button>
+
+</body>
+</html> 
