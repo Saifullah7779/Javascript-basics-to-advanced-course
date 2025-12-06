@@ -1,6 +1,19 @@
 <div align="center">
-<h1>💻🌈 JavaScript Mastery: From Beginner to Functional Projects 🌈💻</h1>
-<p>✨ A complete collection of all my <strong>JavaScript practice files, exercises, chapter notes & projects</strong> — documenting my journey from beginner to intermediate developer! ✨</p>
+
+<h1>
+  <img src="https://c.tenor.com/Ti2sS4K0zZkAAAAi/javascript-js.gif" width="50" style="vertical-align:middle;"> 
+  <span style="color: #FF5733; font-size: 36px;">🌈 JavaScript Mastery 🌈</span>
+  <img src="https://c.tenor.com/Ti2sS4K0zZkAAAAi/javascript-js.gif" width="50" style="vertical-align:middle;">
+</h1>
+
+<p>
+✨ From <strong>Basics to Functional Projects</strong> — a complete collection of JS practice files, exercises, chapter notes & real-world projects! ✨
+</p>
+
+<p>
+💖 Let’s dive into a rainbow journey of coding, learning, and creating amazing applications! 💖
+</p>
+
 </div>
 
 ---
