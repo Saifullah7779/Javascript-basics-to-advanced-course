@@ -1,20 +1,53 @@
-<div align="center">
+<div align="center" style="padding: 20px; background: #1e1e2f; border-radius: 15px;">
 
-<h1>
-  <img src="https://c.tenor.com/Ti2sS4K0zZkAAAAi/javascript-js.gif" width="50" style="vertical-align:middle;"> 
-  <span style="color: #FF5733; font-size: 36px;">🌈 JavaScript Mastery 🌈</span>
-  <img src="https://c.tenor.com/Ti2sS4K0zZkAAAAi/javascript-js.gif" width="50" style="vertical-align:middle;">
-</h1>
+  <h1 style="font-size: 36px; display: flex; align-items: center; justify-content: center; gap: 15px; flex-wrap: wrap;">
+    <img src="https://c.tenor.com/Ti2sS4K0zZkAAAAi/javascript-js.gif" width="50" style="vertical-align:middle; animation: bounce 2s infinite;">
+    
+    <span style="background: linear-gradient(270deg, #FF5733, #FFC300, #DAF7A6, #33FFBD, #335BFF, #9B33FF, #FF33A6); 
+                 -webkit-background-clip: text; 
+                 -webkit-text-fill-color: transparent; 
+                 animation: rainbowText 5s linear infinite;">
+      🌈 JavaScript Mastery 🌈
+    </span>
+    
+    <img src="https://c.tenor.com/Ti2sS4K0zZkAAAAi/javascript-js.gif" width="50" style="vertical-align:middle; animation: bounce 2s infinite;">
+  </h1>
 
-<p>
-✨ From <strong>Basics to Functional Projects</strong> — a complete collection of JS practice files, exercises, chapter notes & real-world projects! ✨
-</p>
+  <p style="font-size: 18px; color: #ffffff; margin-top: 10px; animation: fadeIn 2s ease-in-out;">
+    ✨ From <strong>Basics to Functional Projects</strong> — a complete collection of JS practice files, exercises, chapter notes & real-world projects! ✨
+  </p>
 
-<p>
-💖 Let’s dive into a rainbow journey of coding, learning, and creating amazing applications! 💖
-</p>
+  <p style="font-size: 18px; color: #ffdd57; margin-top: 10px; animation: fadeIn 3s ease-in-out;">
+    💖 Let’s dive into a rainbow journey of coding, learning, and creating amazing applications! 💖
+  </p>
 
 </div>
+
+<style>
+  /* Bounce animation for GIFs */
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-15px); }
+  }
+
+  /* Rainbow text animation */
+  @keyframes rainbowText {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+
+  /* Fade-in animation */
+  @keyframes fadeIn {
+    0% { opacity: 0; transform: translateY(10px); }
+    100% { opacity: 1; transform: translateY(0); }
+  }
+
+  /* Ensure rainbow gradient moves */
+  span {
+    background-size: 400% 400%;
+  }
+</style>
 
 ---
 
