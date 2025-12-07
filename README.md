@@ -1,61 +1,21 @@
-<div align="center">
+#### ✨💥🌈 JavaScript Mastery 🌈💥✨
 
-<h1>
-  <img src="https://c.tenor.com/Ti2sS4K0zZkAAAAi/javascript-js.gif" width="50" style="vertical-align:middle;"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&color=FF5733,FF33A6,33FFBD,335BFF,DAF7A6,FFC300&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%8C%88+JavaScript+Mastery+%F0%9F%8C%88" alt="Typing rainbow animation" />
-  <img src="https://c.tenor.com/Ti2sS4K0zZkAAAAi/javascript-js.gif" width="50" style="vertical-align:middle;">
-</h1>
+<p align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=2800&pause=500&color=FF5733,FF33A6,33FFBD,335BFF,DAF7A6,FFC300&center=true&vCenter=true&width=1100&height=60&lines=🌈+Master+JavaScript+From+Basics+to+Advanced!;🔥+50%2B+Practice+Projects+Included!;💻+Build+Real-World+Projects!;🌟+Learn+DOM%2C+Functions,+Arrays+and+More!" /> 
+</p> 
 
-<p>
-✨ From <strong>Basics to Functional Projects</strong> — a complete collection of JS practice files, exercises, chapter notes & real-world projects! ✨
+<p align="center"> 
+  <img src="https://c.tenor.com/Ti2sS4K0zZkAAAAi/javascript-js.gif" width="100" style="margin-right:20px;" /> 
+  <img src="https://c.tenor.com/Ti2sS4K0zZkAAAAi/javascript-js.gif" width="100" style="margin-left:20px;" /> 
+</p> 
+
+<p align="center"> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/Frontend-Developer-FF1493?style=for-the-badge&logo=react&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Practice%20Projects-FBBF24?style=for-the-badge&logo=github&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/Learning%20Path-22c55e?style=for-the-badge&logo=code&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Animations%20Inside!-8b5cf6?style=for-the-badge&logo=magic&logoColor=white"/> 
 </p>
-
-<p>
-💖 Let’s dive into a rainbow journey of coding, learning, and creating amazing applications! 💖
-</p>
-
-</div>
-
-      🌈 JavaScript Mastery 🌈
-    
-    <img src="https://c.tenor.com/Ti2sS4K0zZkAAAAi/javascript-js.gif" width="50" style="vertical-align:middle; animation: bounce 2s infinite;">
-  </h1>
-
-  <p style="font-size: 18px; color: #ffffff; margin-top: 10px; animation: fadeIn 2s ease-in-out;">
-    ✨ From <strong>Basics to Functional Projects</strong> — a complete collection of JS practice files, exercises, chapter notes & real-world projects! ✨
-  </p>
-
-  <p style="font-size: 18px; color: #ffdd57; margin-top: 10px; animation: fadeIn 3s ease-in-out;">
-    💖 Let’s dive into a rainbow journey of coding, learning, and creating amazing applications! 💖
-  </p>
-
-</div>
-
-<style>
-  /* Bounce animation for GIFs */
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-15px); }
-  }
-
-  /* Rainbow text animation */
-  @keyframes rainbowText {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-
-  /* Fade-in animation */
-  @keyframes fadeIn {
-    0% { opacity: 0; transform: translateY(10px); }
-    100% { opacity: 1; transform: translateY(0); }
-  }
-
-  /* Ensure rainbow gradient moves */
-  span {
-    background-size: 400% 400%;
-  }
-</style>
 
 ---
 
