@@ -1,14 +1,22 @@
-<div align="center" style="padding: 20px; background: #1e1e2f; border-radius: 15px;">
+<div align="center">
 
-  <h1 style="font-size: 36px; display: flex; align-items: center; justify-content: center; gap: 15px; flex-wrap: wrap;">
-    <img src="https://c.tenor.com/Ti2sS4K0zZkAAAAi/javascript-js.gif" width="50" style="vertical-align:middle; animation: bounce 2s infinite;">
-    
-    <span style="background: linear-gradient(270deg, #FF5733, #FFC300, #DAF7A6, #33FFBD, #335BFF, #9B33FF, #FF33A6); 
-                 -webkit-background-clip: text; 
-                 -webkit-text-fill-color: transparent; 
-                 animation: rainbowText 5s linear infinite;">
+<h1>
+  <img src="https://c.tenor.com/Ti2sS4K0zZkAAAAi/javascript-js.gif" width="50" style="vertical-align:middle;"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4000&color=FF5733,FF33A6,33FFBD,335BFF,DAF7A6,FFC300&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%8C%88+JavaScript+Mastery+%F0%9F%8C%88" alt="Typing rainbow animation" />
+  <img src="https://c.tenor.com/Ti2sS4K0zZkAAAAi/javascript-js.gif" width="50" style="vertical-align:middle;">
+</h1>
+
+<p>
+✨ From <strong>Basics to Functional Projects</strong> — a complete collection of JS practice files, exercises, chapter notes & real-world projects! ✨
+</p>
+
+<p>
+💖 Let’s dive into a rainbow journey of coding, learning, and creating amazing applications! 💖
+</p>
+
+</div>
+
       🌈 JavaScript Mastery 🌈
-    </span>
     
     <img src="https://c.tenor.com/Ti2sS4K0zZkAAAAi/javascript-js.gif" width="50" style="vertical-align:middle; animation: bounce 2s infinite;">
   </h1>
